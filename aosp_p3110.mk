@@ -25,7 +25,7 @@ $(call inherit-product, device/samsung/p3110/device.mk)
 
 PRODUCT_NAME := aosp_p3110
 PRODUCT_DEVICE := p3110
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-P3110
 PRODUCT_MANUFACTURER := Samsung
 
