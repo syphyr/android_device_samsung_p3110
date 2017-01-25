@@ -7,4 +7,4 @@ telephony.lteOnCdmaDevice=0
 ro.sf.hwrotation=270
 
 # OTA
-cm.updater.uri=http://192.168.1.5/CyanogenModOTA/api
+cm.updater.uri=http://192.168.1.5/api
